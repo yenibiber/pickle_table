@@ -11,6 +11,7 @@
     font-family: arial, sans-serif;
     border-collapse: collapse;
     border: 1px solid darkgrey;
+    table-layout: fixed;
 }
 
 .pickletable td,
